@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product id="1">
+    <name>iPhone X</name>
+    <quantity>0</quantity>
+    <price>1</price>
+    <boughtBy>
+        <userId>1</userId>
+        <userLastName>John</userLastName>
+    </boughtBy>
+</product>
